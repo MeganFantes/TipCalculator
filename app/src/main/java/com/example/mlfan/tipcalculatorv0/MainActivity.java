@@ -1,4 +1,4 @@
-package com.example.mlfan.tipcalculator_assignment3;
+package com.example.mlfan.tipcalculator;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
