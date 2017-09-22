@@ -16,15 +16,15 @@
     </style>
 
     <style name="LabelStyle" parent="TextStyle">
-        <item name="android:background">@color/lightGray</item>
+        <item name="android:gravity">right</item>
     </style>
 
     <style name="CenteredTextStyle" parent="TextStyle">
         <item name="android:gravity">center</item>
     </style>
 
-    <style name="InputStyle" parent="CenteredTextStyle">
-        <item name="android:textColor">@color/darkBlue</item>
+    <style name="InputStyle" parent="TextStyle">
+        <item name="android:background">@color/lightGray</item>
     </style>
 
     <style name="OutputStyle" parent="CenteredTextStyle">
