@@ -3,10 +3,12 @@
 
     <string name="label_bill">Bill</string>
     <string name="label_tip_percent">Tip (%)</string>
-    <string name="label_tip">Tip ($)</string>
-    <string name="label_total">Total</string>
+    <string name="label_tip">Tip:</string>
+    <string name="label_total">Total:</string>
 
-    <string name="amount_bill_hint">Enter Bill Amount</string>
+    <string name="amount_bill_hint">Enter Amount</string>
     <string name="amount_tip_percent_hint">Enter Tip (%)</string>
+
+    <string name="value_preview">$0.00</string>
 
 </resources>

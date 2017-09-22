@@ -1,4 +1,4 @@
-package com.example.mlfan.tipcalculatorv0;
+package com.example.mlfan.tipcalculator;
 
 /**
  * Created by mlfan on 9/14/2017.
