@@ -22,12 +22,12 @@ public class TipCalculator {
     }
 
     public void setTip ( float newTip ) {
-        if( newTip > 0 )
+        if( newTip >= 0 )
             tip = newTip;
     }
 
     public void setBill ( float newBill ) {
-        if ( newBill > 0 )
+        if ( newBill >= 0 )
             bill = newBill;
     }
 
